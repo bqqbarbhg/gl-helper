@@ -1,5 +1,6 @@
 
 var glh = (function (glh) {
+	'use strict';
 
 	// Vertex formats
 
