@@ -1,0 +1,14 @@
+{
+  "name": "gl-helper",
+  "authors": [
+    "bqqbarbhg"
+  ],
+  "description": "A minimal WebGL helper",
+  "main": "glh.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/bqqbarbhg/gl-helper",
+  "ignore": [
+    "*.md"
+  ]
+}
